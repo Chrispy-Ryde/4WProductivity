@@ -1,0 +1,496 @@
+﻿Build started 8/12/2023 11:37:20 PM.
+Logging verbosity is set to: Detailed.     1>Project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" on node 2 (Rebuild target(s)).
+     1>Target "_CheckForInvalidConfigurationAndPlatform" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "SetTelemetryEnvironmentVariables" depends on it):
+     1>Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+     1>Done building target "_CheckForInvalidConfigurationAndPlatform" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "SetTelemetryEnvironmentVariables" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Rebuild" depends on it):
+       Task "SetEnv"
+       Done executing task "SetEnv".
+       Task "SetEnv"
+       Done executing task "SetEnv".
+       Task "SetEnv"
+       Done executing task "SetEnv".
+     1>Done building target "SetTelemetryEnvironmentVariables" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_PrepareForRebuild" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Rebuild" depends on it):
+     1>Done building target "_PrepareForRebuild" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BeforeRebuild" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Rebuild" depends on it):
+     1>Done building target "BeforeRebuild" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_PrepareForClean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Clean" depends on it):
+     1>Done building target "_PrepareForClean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BeforeClean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Clean" depends on it):
+     1>Done building target "BeforeClean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "CoreClean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Clean" depends on it):
+       Task "Delete"
+       Done executing task "Delete".
+       Task "ReadLinesFromFile"
+       Done executing task "ReadLinesFromFile".
+       Task "FindUnderPath"
+       Done executing task "FindUnderPath".
+       Task "FindUnderPath"
+       Done executing task "FindUnderPath".
+       Task "Delete"
+       Done executing task "Delete".
+       Task "RemoveDuplicates"
+       Done executing task "RemoveDuplicates".
+       Task "MakeDir"
+       Done executing task "MakeDir".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+     1>Done building target "CoreClean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AssignProjectConfiguration" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareProjectReferences" depends on it):
+       Task "AssignProjectConfiguration"
+       Done executing task "AssignProjectConfiguration".
+     1>Done building target "AssignProjectConfiguration" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_SplitProjectReferencesByFileExistence" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareProjectReferences" depends on it):
+     1>Done building target "_SplitProjectReferencesByFileExistence" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_AddOutputPathToGlobalPropertiesToRemove" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_GetProjectReferenceTargetFrameworkProperties" depends on it):
+     1>Done building target "_AddOutputPathToGlobalPropertiesToRemove" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_GetProjectReferenceTargetFrameworkProperties" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareProjectReferences" depends on it):
+       Task "MSBuild"
+       Done executing task "MSBuild".
+       Task "SetRidAgnosticValueForProjects"
+       Done executing task "SetRidAgnosticValueForProjects".
+     1>Done building target "_GetProjectReferenceTargetFrameworkProperties" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "PrepareProjectReferences" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CleanReferencedProjects" depends on it):
+     1>Done building target "PrepareProjectReferences" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "CleanReferencedProjects" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Clean" depends on it):
+     1>Done building target "CleanReferencedProjects" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "CleanPublishFolder" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Clean" depends on it):
+     1>Done building target "CleanPublishFolder" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterClean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Clean" depends on it):
+     1>Done building target "AfterClean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BeforeCppClean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CppClean" depends on it):
+     1>Done building target "BeforeCppClean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "CoreCppClean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CppClean" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+       Task "CppClean"
+       Done executing task "CppClean".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+     1>Done building target "CoreCppClean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterCppClean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CppClean" depends on it):
+     1>Done building target "AfterCppClean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "PGInstrumentedClean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CppClean" depends on it):
+       Task "Delete"
+       Done executing task "Delete".
+     1>Done building target "PGInstrumentedClean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "CppClean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Clean" depends on it):
+     1>Done building target "CppClean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "Clean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Rebuild" depends on it):
+     1>Done building target "Clean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_PrepareForBuild" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Build" depends on it):
+     1>Done building target "_PrepareForBuild" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_PrepareForReferenceResolution" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ResolveReferences" depends on it):
+     1>Done building target "_PrepareForReferenceResolution" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BeforeResolveReferences" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ResolveReferences" depends on it):
+     1>Done building target "BeforeResolveReferences" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ResolveProjectReferences" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ResolveReferences" depends on it):
+     1>Done building target "ResolveProjectReferences" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "GetFrameworkPaths" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+     1>Done building target "GetFrameworkPaths" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "GetReferenceAssemblyPaths" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+     1>Done building target "GetReferenceAssemblyPaths" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AddExternalIncludDirectoriesToPaths" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "SetBuildDefaultEnvironmentVariables" depends on it):
+     1>Done building target "AddExternalIncludDirectoriesToPaths" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "SetBuildDefaultEnvironmentVariables" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareForBuild" depends on it):
+       Task "SetEnv"
+       Done executing task "SetEnv".
+       Task "SetEnv"
+       Done executing task "SetEnv".
+       Task "SetEnv"
+       Done executing task "SetEnv".
+       Task "SetEnv"
+       Done executing task "SetEnv".
+       Task "SetEnv"
+       Done executing task "SetEnv".
+     1>Done building target "SetBuildDefaultEnvironmentVariables" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "GetResolvedWinMD" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareForBuild" depends on it):
+     1>Done building target "GetResolvedWinMD" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_CheckWindowsSDKInstalled" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareForBuild" depends on it):
+     1>Done building target "_CheckWindowsSDKInstalled" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "SetCABuildNativeEnvironmentVariables" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareForBuild" depends on it):
+       Task "SetEnv"
+       Done executing task "SetEnv".
+     1>Done building target "SetCABuildNativeEnvironmentVariables" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "PrepareForBuild" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+       Task "CheckVCToolsetVersion"
+       Done executing task "CheckVCToolsetVersion".
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "PrepareForBuild" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ResolveSDKReferences" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+     1>Done building target "ResolveSDKReferences" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ExpandSDKReferences" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+     1>Done building target "ExpandSDKReferences" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ResolveAssemblyReferences" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ResolveReferences" depends on it):
+     1>Done building target "ResolveAssemblyReferences" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterResolveReferences" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ResolveReferences" depends on it):
+     1>Done building target "AfterResolveReferences" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ResolveReferences" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Build" depends on it):
+     1>Done building target "ResolveReferences" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "InitializeBuildStatus" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Build" depends on it):
+       Task "ReadLinesFromFile"
+       Done executing task "ReadLinesFromFile".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+       Task "Touch"
+       Done executing task "Touch".
+     1>Done building target "InitializeBuildStatus" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BuildGenerateSourcesTraverse" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "BuildGenerateSources" depends on it):
+     1>Done building target "BuildGenerateSourcesTraverse" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BeforeBuildGenerateSources" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "BeforeBuildGenerateSources" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "PreBuildEvent" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "PreBuildEvent" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_SelectedFiles" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "SelectCustomBuild" depends on it):
+     1>Done building target "_SelectedFiles" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "SelectCustomBuild" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CustomBuild" depends on it):
+     1>Done building target "SelectCustomBuild" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeCustomBuildOutput" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CustomBuild" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "ComputeCustomBuildOutput" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "CustomBuild" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+       Task "GetOutOfDateItems"
+       Done executing task "GetOutOfDateItems".
+       Task "GetOutOfDateItems"
+       Done executing task "GetOutOfDateItems".
+     1>Done building target "CustomBuild" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "CopyFileToFolders" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+       Task "GetOutOfDateItems"
+       Done executing task "GetOutOfDateItems".
+     1>Done building target "CopyFileToFolders" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_Xsd" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "_Xsd" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "MakeDirsForMidl" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Midl" depends on it):
+       Task "Makedir"
+       Done executing task "Makedir".
+     1>Done building target "MakeDirsForMidl" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeMIDLGeneratedCompileInputs" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Midl" depends on it):
+     1>Done building target "ComputeMIDLGeneratedCompileInputs" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterMidl" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Midl" depends on it):
+     1>Done building target "AfterMidl" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_Midl" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "_Midl" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterBuildGenerateSources" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "AfterBuildGenerateSources" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterBuildGenerateSourcesEvent" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "AfterBuildGenerateSourcesEvent" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_BuildGenerateSourcesAction" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "BuildGenerateSources" depends on it):
+     1>Done building target "_BuildGenerateSourcesAction" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BuildGenerateSources" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Build" depends on it):
+     1>Done building target "BuildGenerateSources" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BuildCompileTraverse" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "BuildCompile" depends on it):
+     1>Done building target "BuildCompileTraverse" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BeforeClCompile" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "BeforeClCompile" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeCLInputPDBName" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "ComputeCLInputPDBName" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "FindReferenceAssembliesForReferences" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ComputeReferenceCLInput" depends on it):
+     1>Done building target "FindReferenceAssembliesForReferences" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "GetReferencedVCProjectsInfo" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ComputeReferenceCLInput" depends on it):
+     1>Done building target "GetReferencedVCProjectsInfo" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeReferenceCLInput" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "ComputeReferenceCLInput" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "WarnCompileDuplicatedFilename" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "WarnCompileDuplicatedFilename" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeStdModulesCompileInputs" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "ComputeStdModulesCompileInputs" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "FixupCLCompileOptions" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "FixupCLCompileOptions" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "MakeDirsForCl" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ClCompile" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForCl" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "SelectClCompile" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ClCompile" depends on it):
+     1>Done building target "SelectClCompile" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ClCompile" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ClCompile" depends on it):
+       Task "Delete"
+       Done executing task "Delete".
+       Task "CL"
+         R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "4-WAY-Receipt.cpp" "4-WAY_timekeeper.cpp" menu.cpp simple_checkbook.cpp simple_spreadsheet.cpp
+         4-WAY-Receipt.cpp
+     1>R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY-Receipt.cpp(81,19): warning C4018: '<': signed/unsigned mismatch
+     1>R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY-Receipt.cpp(96,19): warning C4018: '<': signed/unsigned mismatch
+         4-WAY_timekeeper.cpp
+         menu.cpp
+         simple_checkbook.cpp
+         simple_spreadsheet.cpp
+     1>R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\simple_spreadsheet.cpp(89,16): warning C4018: '<': signed/unsigned mismatch
+     1>R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\simple_spreadsheet.cpp(112,16): warning C4018: '<': signed/unsigned mismatch
+         Generating Code...
+       Done executing task "CL".
+     1>Done building target "ClCompile" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterClCompile" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "AfterClCompile" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_ClCompile" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildCompileAction" depends on it):
+     1>Done building target "_ClCompile" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BeforeResourceCompile" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ResourceCompile" depends on it):
+     1>Done building target "BeforeResourceCompile" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "MakeDirsForResourceCompile" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ResourceCompile" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForResourceCompile" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterResourceCompile" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_ResourceCompile" depends on it):
+     1>Done building target "AfterResourceCompile" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_ResourceCompile" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildCompileAction" depends on it):
+     1>Done building target "_ResourceCompile" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterBuildCompileEvent" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildCompileAction" depends on it):
+     1>Done building target "AfterBuildCompileEvent" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_BuildCompileAction" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "BuildCompile" depends on it):
+     1>Done building target "_BuildCompileAction" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BuildCompile" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Build" depends on it):
+     1>Done building target "BuildCompile" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BuildLinkTraverse" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "BuildLink" depends on it):
+     1>Done building target "BuildLinkTraverse" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeLegacyManifestEmbedding" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "ComputeLegacyManifestEmbedding" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BeforeLink" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+     1>Done building target "BeforeLink" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeRCOutputs" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ComputeRCGeneratedLinkInputs" depends on it):
+     1>Done building target "ComputeRCOutputs" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeRCGeneratedLinkInputs" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeRCGeneratedLinkInputs" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeManifestGeneratedLinkerInputs" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeManifestGeneratedLinkerInputs" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeCLOutputs" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ComputeCLGeneratedLinkInputs" depends on it):
+     1>Done building target "ComputeCLOutputs" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeCLGeneratedLinkInputs" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeCLGeneratedLinkInputs" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeLinkInputsFromProject" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeLinkInputsFromProject" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeManifestInputsTargets" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeManifestInputsTargets" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AssignTargetPaths" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareResourceNames" depends on it):
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+     1>Done building target "AssignTargetPaths" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "SplitResourcesByCulture" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareResourceNames" depends on it):
+       Task "AssignCulture"
+       Done executing task "AssignCulture".
+     1>Done building target "SplitResourcesByCulture" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "CreateCustomManifestResourceNames" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareResourceNames" depends on it):
+     1>Done building target "CreateCustomManifestResourceNames" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "PrepareResourceNames" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+     1>Done building target "PrepareResourceNames" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "MakeDirsForLink" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForLink" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "DoLinkOutputFilesMatch" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+     1>Done building target "DoLinkOutputFilesMatch" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "PreLinkEvent" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+     1>Done building target "PreLinkEvent" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeLinkSwitches" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Link" depends on it):
+     1>Done building target "ComputeLinkSwitches" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "Link" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+       Task "Link"
+         R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\x64\Debug\4-WAY Productivity Suite.exe" /INCREMENTAL /ILK:"x64\Debug\4-WAY Productivity Suite.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\x64\Debug\4-WAY Productivity Suite.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\x64\Debug\4-WAY Productivity Suite.lib" /MACHINE:X64 "x64\Debug\4-WAY-Receipt.obj"
+         "x64\Debug\4-WAY_timekeeper.obj"
+         x64\Debug\menu.obj
+         x64\Debug\simple_checkbook.obj
+         x64\Debug\simple_spreadsheet.obj
+       Done executing task "Link".
+       Task "Message"
+         4-WAY Productivity Suite.vcxproj -> R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\x64\Debug\4-WAY Productivity Suite.exe
+       Done executing task "Message".
+     1>Done building target "Link" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeLinkImportLibraryOutputsForClean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeLinkImportLibraryOutputsForClean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterLink" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_Link" depends on it):
+     1>Done building target "AfterLink" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_Link" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "_Link" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_ALink" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "_ALink" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_Manifest" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "_Manifest" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "RegisterOutput" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "RegisterOutput" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ResolvedXDCMake" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_XdcMake" depends on it):
+     1>Done building target "ResolvedXDCMake" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeCLCompileGeneratedXDCFiles" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_XdcMake" depends on it):
+     1>Done building target "ComputeCLCompileGeneratedXDCFiles" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "MakeDirsForXdcMake" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_XdcMake" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForXdcMake" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_XdcMake" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "_XdcMake" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ComputeCLCompileGeneratedSbrFiles" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BscMake" depends on it):
+     1>Done building target "ComputeCLCompileGeneratedSbrFiles" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "MakeDirsForBscMake" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BscMake" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForBscMake" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_BscMake" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "_BscMake" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BuiltProjectOutputGroup" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CreateRecipeFile" depends on it):
+     1>Done building target "BuiltProjectOutputGroup" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "SatelliteDllsProjectOutputGroup" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CreateRecipeFile" depends on it):
+     1>Done building target "SatelliteDllsProjectOutputGroup" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "MakeDirsForFxc" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "ContentFilesProjectOutputGroup" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForFxc" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "ContentFilesProjectOutputGroup" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CreateRecipeFile" depends on it):
+     1>Done building target "ContentFilesProjectOutputGroup" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "CreateRecipeFile" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+       Task "GenerateDesktopDeployRecipe"
+       Done executing task "GenerateDesktopDeployRecipe".
+     1>Done building target "CreateRecipeFile" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_GenerateSatelliteAssemblyInputs" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CreateSatelliteAssemblies" depends on it):
+     1>Done building target "_GenerateSatelliteAssemblyInputs" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "CreateSatelliteAssemblies" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "CreateSatelliteAssemblies" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_Appverifier" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "_Appverifier" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_Deploy" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "_Deploy" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_CalculatePostXamarinTelemetry" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Xamarin\Xamarin.Sdk.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareForRun" depends on it):
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+       Task "Message"
+       Done executing task "Message".
+     1>Done building target "_CalculatePostXamarinTelemetry" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_PopulateCommonStateForGetCopyToOutputDirectoryItems" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+     1>Done building target "_PopulateCommonStateForGetCopyToOutputDirectoryItems" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "GetCopyToOutputDirectoryXamlAppDefs" in file "C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+     1>Done building target "GetCopyToOutputDirectoryXamlAppDefs" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "GetCopyToOutputDirectoryItems" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_CopySourceItemsToOutputDirectory" depends on it):
+       Task "CallTarget"
+     1>Target "_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+     1>Done building target "_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences" in project "4-WAY Productivity Suite.vcxproj".
+       Done executing task "CallTarget".
+       Task "CallTarget"
+     1>Target "_GetCopyToOutputDirectoryItemsFromThisProject" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+     1>Done building target "_GetCopyToOutputDirectoryItemsFromThisProject" in project "4-WAY Productivity Suite.vcxproj".
+       Done executing task "CallTarget".
+     1>Done building target "GetCopyToOutputDirectoryItems" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_CopySourceItemsToOutputDirectory" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CopyFilesToOutputDirectory" depends on it):
+     1>Done building target "_CopySourceItemsToOutputDirectory" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_CheckForCompileOutputs" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "CopyFilesToOutputDirectory" depends on it):
+     1>Done building target "_CheckForCompileOutputs" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "CopyFilesToOutputDirectory" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "PrepareForRun" depends on it):
+     1>Done building target "CopyFilesToOutputDirectory" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "PrepareForRun" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "PrepareForRun" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "PostBuildEvent" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "_BuildLinkAction" depends on it):
+     1>Done building target "PostBuildEvent" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_BuildLinkAction" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "BuildLink" depends on it):
+     1>Done building target "_BuildLinkAction" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "BuildLink" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Build" depends on it):
+     1>Done building target "BuildLink" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterBuild" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Build" depends on it):
+     1>Done building target "AfterBuild" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "_CleanGetCurrentAndPriorFileWrites" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "IncrementalClean" depends on it):
+       Task "ReadLinesFromFile"
+       Done executing task "ReadLinesFromFile".
+       Task "ConvertToAbsolutePath"
+       Done executing task "ConvertToAbsolutePath".
+       Task "FindUnderPath"
+       Done executing task "FindUnderPath".
+       Task "FindUnderPath"
+       Done executing task "FindUnderPath".
+       Task "FindUnderPath"
+       Done executing task "FindUnderPath".
+       Task "RemoveDuplicates"
+       Done executing task "RemoveDuplicates".
+     1>Done building target "_CleanGetCurrentAndPriorFileWrites" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "IncrementalClean" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Build" depends on it):
+       Task "FindUnderPath"
+       Done executing task "FindUnderPath".
+       Task "FindUnderPath"
+       Done executing task "FindUnderPath".
+       Task "Delete"
+       Done executing task "Delete".
+       Task "RemoveDuplicates"
+       Done executing task "RemoveDuplicates".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+     1>Done building target "IncrementalClean" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "TlogCleanup" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Build" depends on it):
+       Task "CleanupStaleTlogItems"
+       Done executing task "CleanupStaleTlogItems".
+     1>Done building target "TlogCleanup" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "FinalizeBuildStatus" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Build" depends on it):
+       Task "Delete"
+       Done executing task "Delete".
+       Task "Touch"
+       Done executing task "Touch".
+     1>Done building target "FinalizeBuildStatus" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "Build" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Rebuild" depends on it):
+     1>Done building target "Build" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "AfterRebuild" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (target "Rebuild" depends on it):
+     1>Done building target "AfterRebuild" in project "4-WAY Productivity Suite.vcxproj".
+     1>Target "Rebuild" in file "R:\Developer Toolkit\Microsoft_Visual_Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" from project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (entry point):
+     1>Done building target "Rebuild" in project "4-WAY Productivity Suite.vcxproj".
+     1>Done Building Project "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+       "R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY Productivity Suite.vcxproj" (Rebuild target) (1) ->
+       (ClCompile target) -> 
+         R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY-Receipt.cpp(81,19): warning C4018: '<': signed/unsigned mismatch
+         R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\4-WAY-Receipt.cpp(96,19): warning C4018: '<': signed/unsigned mismatch
+         R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\simple_spreadsheet.cpp(89,16): warning C4018: '<': signed/unsigned mismatch
+         R:\CurioCorner\Programming_Resources\Git_Repositories\cplusplus\4way_play\4-WAY Productivity Suite\simple_spreadsheet.cpp(112,16): warning C4018: '<': signed/unsigned mismatch
+
+    4 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.76
